@@ -1,0 +1,103 @@
+.service-container{
+    display: flex;
+    margin: 100px;
+    align-items: center;
+    justify-content: center;    
+}
+
+.service-container2{
+    display: flex;
+    margin: 100px;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn-2{
+    height: 40px;
+    width: 200px;
+}
+
+.container-3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: cornflowerblue;
+    color: white;
+    text-align: center;
+    height: 300px;
+    width: 1300px;
+    
+}
+
+.project-container{
+    display: flex;
+    margin: 25px;
+    align-items: center;
+    justify-content: center;
+    gap: 150px;
+    text-align: center;
+}
+
+.plan-container{
+   display: flex;
+   margin: 25px;
+   align-items: center;
+   justify-content: center;
+   gap: 150px;
+   text-align: center;
+}
+
+.plan{
+    border: 100px;
+    background-color: white;
+    color: black;
+    
+}
+
+.plan:hover{
+    background-color: cornflowerblue;
+}
+
+button{
+    background-color: cornflowerblue;
+    border: none;
+    width: 150px;
+    height: 40px;
+}
+
+button:hover{
+    background-color: white;
+}
+
+.project{
+    margin-top: 25px;
+}
+.project-container2{
+    display: flex;
+    margin: 25px;
+    align-items: center;
+    justify-content: center;
+    gap: 150px;
+    text-align: center;
+}
+
+.last-work{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color: white;
+    margin-top: 100px;    
+}
+
+.work{
+    margin: 50px 50px;
+    margin-top: 100px;
+}
+
+.btn1{
+    color:white;
+    height: 30px;
+    width: 50px;
+}
+
